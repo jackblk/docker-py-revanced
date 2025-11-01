@@ -1,1 +1,20 @@
-{}
+{
+    "REAndroid/APKEditor": {
+        "ResourceName": "[REAndroid/APKEditor](https://github.com/REAndroid/APKEditor/releases/tag/V1.4.5)",
+        "Version": "V1.4.5",
+        "Changelog": "## What's Changed\r\n* Minor improvement on dex building performance\r\n* Fix dex container building issues\r\n* Fix smali parsing #198 \r\n* Update README @yonggamer in https://github.com/REAndroid/APKEditor/pull/203\r\n\r\n\r\n**Full Changelog**: https://github.com/REAndroid/APKEditor/compare/V1.4.4...V1.4.5",
+        "PublishedOn": "2025-08-13T20:00:41Z"
+    },
+    "revanced/revanced-cli": {
+        "ResourceName": "[revanced/revanced-cli](https://github.com/ReVanced/revanced-cli/releases/tag/v5.0.1)",
+        "Version": "v5.0.1",
+        "Changelog": "## [5.0.1](https://github.com/ReVanced/revanced-cli/compare/v5.0.0...v5.0.1) (2025-04-14)\n\n\n### Bug Fixes\n\n* Make mounting work again by bumping dependencies ([#359](https://github.com/ReVanced/revanced-cli/issues/359)) ([68a4872](https://github.com/ReVanced/revanced-cli/commit/68a48724ebf01a0c8f8adc0fec63037bff672dc9))\n\n\n\n",
+        "PublishedOn": "2025-04-14T08:53:52Z"
+    },
+    "revanced/revanced-patches": {
+        "ResourceName": "[revanced/revanced-patches](https://github.com/ReVanced/revanced-patches/releases/tag/v5.45.0)",
+        "Version": "v5.45.0",
+        "Changelog": "# [5.45.0](https://github.com/ReVanced/revanced-patches/compare/v5.44.0...v5.45.0) (2025-11-01)\r\n\r\n\r\n### Bug Fixes\r\n\r\n* **Instagram:** Update failing fingerprints on newer versions ([#6181](https://github.com/ReVanced/revanced-patches/issues/6181)) ([c73a03c](https://github.com/ReVanced/revanced-patches/commit/c73a03c9e18a12262939c974cdf16221221d1487))\r\n* **TikTok - Downloads:** Fix download path setting  ([#6191](https://github.com/ReVanced/revanced-patches/issues/6191)) ([3e4990a](https://github.com/ReVanced/revanced-patches/commit/3e4990afff4c86b93970b153db713ad0f813124d))\r\n* **YouTube - Force original audio:** Fall back to visionOS and not Android Studio if Android VR is not available ([6d01863](https://github.com/ReVanced/revanced-patches/commit/6d01863ec70617d9abc864ce6686ed9764dd151d))\r\n* **YouTube - Spoof video streams:** Remove spoof stream audio selector that no longer works ([292fae4](https://github.com/ReVanced/revanced-patches/commit/292fae440c6d5694c5e84407becec2d91f1fd156))\r\n* **YouTube Music - Hide category bar:** Correctly hide the category bar in newer app targets ([#6175](https://github.com/ReVanced/revanced-patches/issues/6175)) ([13cf172](https://github.com/ReVanced/revanced-patches/commit/13cf1724bf2f946c7129cab0db96721c90f9fe89))\r\n\r\n\r\n### Features\r\n\r\n* **Spoof video streams:** Add experimental \"Android No SDK\" client type ([5f23bfe](https://github.com/ReVanced/revanced-patches/commit/5f23bfe833c6e01617a7dbc5325b4a3fb931e53e))\r\n* **TikTok:** Add `Sanitize sharing links` patch ([#6176](https://github.com/ReVanced/revanced-patches/issues/6176)) ([ef44eaa](https://github.com/ReVanced/revanced-patches/commit/ef44eaa119b9d6c5faec051e22d20f883d0da4f1))\r\n* **YouTube - Change Header:** Use SVG for header logo ([#6178](https://github.com/ReVanced/revanced-patches/issues/6178)) ([e9f45ce](https://github.com/ReVanced/revanced-patches/commit/e9f45ce92695d5857473ff71c14b190bded28a73))\r\n\r\n\r\n\r\n",
+        "PublishedOn": "2025-11-01T15:37:49Z"
+    }
+}
