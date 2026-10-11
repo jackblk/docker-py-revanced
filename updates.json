@@ -1,1 +1,180 @@
-{}
+{
+    "youtube_music": {
+        "app_version": "9.20.53",
+        "patches_versions": [
+            "v1.47.0"
+        ],
+        "cli_version": "v1.18.1",
+        "ms_epoch_since_patched": 1791757417515,
+        "date_patched": "2026-10-11 22:23:37.515044+05:30",
+        "app_dump": {
+            "app_name": "youtube_music",
+            "app_version": "9.20.53",
+            "experiment": false,
+            "cli_dl": "https://github.com/MorpheApp/morphe-cli",
+            "patches_dl_list": [
+                "https://github.com/MorpheApp/morphe-patches"
+            ],
+            "patches_dl": "https://github.com/MorpheApp/morphe-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "0d80a7f0eb409b64fd6d9cef00c9a01750e0698428032f5d73037186daeb90b6.jar",
+                    "version": "v1.18.1"
+                },
+                "patches": {
+                    "file_name": "c132b24432875583f44ae54ee9c9cfe02eda650eb13317ad07195ebefbff8c88.mpp",
+                    "version": "v1.47.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "c132b24432875583f44ae54ee9c9cfe02eda650eb13317ad07195ebefbff8c88.mpp",
+                    "version": "v1.47.0"
+                }
+            ],
+            "no_of_patches": 48,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube_music.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=14008913&key=11253a091a863dec0562fdf1bca642d3f015a391&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube-music/",
+            "package_name": "com.google.android.apps.youtube.music",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true,
+            "cli_argsf": "",
+            "effective_cli_argsf": "morphe-cli",
+            "cli_lpargs": "",
+            "cli_pargs": "",
+            "cli_lp_args": {
+                "CMD": "list-patches",
+                "DESCRIPTIONS": "",
+                "FILTER_PACKAGE_NAME": "",
+                "INDEX": "-i",
+                "OPTIONS": "-o",
+                "PACKAGES": "-p",
+                "PATCHES": "--patches",
+                "PATCHES_POST": "",
+                "TEMPORARY_FILES_PATH": "",
+                "UNIVERSAL": "-u",
+                "VERSIONS": "-v"
+            },
+            "cli_p_args": {
+                "APK": "__POSITIONAL__",
+                "CMD": "patch",
+                "CONTINUE_ON_ERROR": "--continue-on-error",
+                "DISABLED": "-d",
+                "ENABLED": "-e",
+                "EXCLUSIVE": "--exclusive",
+                "FORCE": "--force",
+                "KEYSTORE": "--keystore",
+                "KEYSTORE_ENTRY_ALIAS": "--keystore-entry-alias=alias",
+                "KEYSTORE_ENTRY_PASSWORD": "--keystore-entry-password=ReVanced",
+                "KEYSTORE_PASSWORD": "--keystore-password=ReVanced",
+                "OPTIONS": "-O",
+                "OUTPUT": "-o",
+                "PATCHES": "-p",
+                "PATCHES_POST": "",
+                "PURGE": "",
+                "RIP_LIB": "",
+                "STRIPLIBS": "--striplibs",
+                "TEMPORARY_FILES_PATH": "-t"
+            },
+            "_cached_output_file_name": "Reyoutube_music-Version9.20.53-PatchVersionv1.47.0-PatchSetbc7cdd5ef0c7-2026OCT11.1023PM-output.apk"
+        },
+        "output_file_name": "Reyoutube_music-Version9.20.53-PatchVersionv1.47.0-PatchSetbc7cdd5ef0c7-2026OCT11.1023PM-output.apk"
+    },
+    "youtube": {
+        "app_version": "21.20.405",
+        "patches_versions": [
+            "v1.47.0"
+        ],
+        "cli_version": "v1.18.1",
+        "ms_epoch_since_patched": 1791757422614,
+        "date_patched": "2026-10-11 22:23:42.613980+05:30",
+        "app_dump": {
+            "app_name": "youtube",
+            "app_version": "21.20.405",
+            "experiment": false,
+            "cli_dl": "https://github.com/MorpheApp/morphe-cli",
+            "patches_dl_list": [
+                "https://github.com/MorpheApp/morphe-patches"
+            ],
+            "patches_dl": "https://github.com/MorpheApp/morphe-patches",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "0d80a7f0eb409b64fd6d9cef00c9a01750e0698428032f5d73037186daeb90b6.jar",
+                    "version": "v1.18.1"
+                },
+                "patches": {
+                    "file_name": "c132b24432875583f44ae54ee9c9cfe02eda650eb13317ad07195ebefbff8c88.mpp",
+                    "version": "v1.47.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "c132b24432875583f44ae54ee9c9cfe02eda650eb13317ad07195ebefbff8c88.mpp",
+                    "version": "v1.47.0"
+                }
+            ],
+            "no_of_patches": 97,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=14033084&key=13102fe901fe8e8b2e534a0791a2537e7134be18&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.youtube",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true,
+            "cli_argsf": "",
+            "effective_cli_argsf": "morphe-cli",
+            "cli_lpargs": "",
+            "cli_pargs": "",
+            "cli_lp_args": {
+                "CMD": "list-patches",
+                "DESCRIPTIONS": "",
+                "FILTER_PACKAGE_NAME": "",
+                "INDEX": "-i",
+                "OPTIONS": "-o",
+                "PACKAGES": "-p",
+                "PATCHES": "--patches",
+                "PATCHES_POST": "",
+                "TEMPORARY_FILES_PATH": "",
+                "UNIVERSAL": "-u",
+                "VERSIONS": "-v"
+            },
+            "cli_p_args": {
+                "APK": "__POSITIONAL__",
+                "CMD": "patch",
+                "CONTINUE_ON_ERROR": "--continue-on-error",
+                "DISABLED": "-d",
+                "ENABLED": "-e",
+                "EXCLUSIVE": "--exclusive",
+                "FORCE": "--force",
+                "KEYSTORE": "--keystore",
+                "KEYSTORE_ENTRY_ALIAS": "--keystore-entry-alias=alias",
+                "KEYSTORE_ENTRY_PASSWORD": "--keystore-entry-password=ReVanced",
+                "KEYSTORE_PASSWORD": "--keystore-password=ReVanced",
+                "OPTIONS": "-O",
+                "OUTPUT": "-o",
+                "PATCHES": "-p",
+                "PATCHES_POST": "",
+                "PURGE": "",
+                "RIP_LIB": "",
+                "STRIPLIBS": "--striplibs",
+                "TEMPORARY_FILES_PATH": "-t"
+            },
+            "_cached_output_file_name": "Reyoutube-Version21.20.405-PatchVersionv1.47.0-PatchSetbc7cdd5ef0c7-2026OCT11.1023PM-output.apk"
+        },
+        "output_file_name": "Reyoutube-Version21.20.405-PatchVersionv1.47.0-PatchSetbc7cdd5ef0c7-2026OCT11.1023PM-output.apk"
+    }
+}
